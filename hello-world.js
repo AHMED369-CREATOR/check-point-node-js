@@ -1,0 +1,5 @@
+//console.log("HELLO WORLD")
+var_=require('lodash')
+const arr=_.compact([0,1,false,2,'',])
+console.log(arr)
+console.log('text')

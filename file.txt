@@ -1,0 +1,14 @@
+switch (operation) {
+     case "+":
+         console.log(sum(a,b))
+         
+         break;
+     case "-":
+        console.log(minus(a,b))
+    break;
+    case "*";
+        console.log(mutiply(a,b))
+    default;
+         console.log('try again')
+        break;
+ }
